@@ -1,0 +1,10 @@
+Rohan Mehta
+Email: rohan.mehta@email.com
+
+Education: B.E in Electronics and Communication, 2023
+
+Skills: Python, C, Arduino, IoT, embedded systems, SQL
+
+Experience: 1 year as Embedded Engineer. Worked on sensor data collection with IoT devices.
+
+Projects: Smart home automation. Weather monitoring system using Arduino.

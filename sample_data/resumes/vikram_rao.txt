@@ -1,0 +1,10 @@
+Vikram Rao
+Email: vikram.rao@email.com
+
+Education: B.Tech in Computer Science, 2024
+
+Skills: Java, Python, HTML, CSS, JavaScript, React, SQL, Git
+
+Experience: 6 months as Web Developer Intern. Built responsive websites and REST APIs.
+
+Projects: E-commerce website. Online quiz application.

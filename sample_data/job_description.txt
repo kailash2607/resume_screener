@@ -1,0 +1,16 @@
+Job Title: Machine Learning Engineer (Entry Level)
+
+We are looking for a Machine Learning Engineer to join our data team.
+
+Requirements:
+- Bachelor's degree in Computer Science, AI, Data Science or related field
+- 0-2 years of experience in machine learning projects
+- Strong knowledge of Python, pandas, numpy and scikit-learn
+- Experience with NLP, text processing or deep learning
+- Good knowledge of SQL and data visualization
+- Familiarity with Git and basic cloud concepts is a plus
+
+Responsibilities:
+- Build and evaluate machine learning models
+- Clean and analyze large datasets
+- Present insights to the team using dashboards and reports

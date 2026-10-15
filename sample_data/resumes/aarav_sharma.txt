@@ -1,0 +1,10 @@
+Aarav Sharma
+Email: aarav.sharma@email.com
+
+Education: B.Tech in Artificial Intelligence and Machine Learning, 2025
+
+Skills: Python, pandas, numpy, scikit-learn, NLP, SQL, Git, Tableau, TensorFlow, data visualization
+
+Experience: 1 year as Machine Learning Intern at DataWorks. Built a text classification model using NLP and scikit-learn. Cleaned and analyzed large datasets with pandas and SQL.
+
+Projects: Sentiment analysis of product reviews. Customer churn prediction. Sales dashboard in Tableau.

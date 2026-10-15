@@ -1,0 +1,10 @@
+Priya Nair
+Email: priya.nair@email.com
+
+Education: B.Sc in Data Science, 2024
+
+Skills: Python, pandas, matplotlib, SQL, Excel, machine learning, statistics
+
+Experience: 2 years as Data Analyst at InsightCorp. Created reports and dashboards, analyzed customer data, and built basic regression models.
+
+Projects: House price prediction using scikit-learn. Sales analysis dashboard.
